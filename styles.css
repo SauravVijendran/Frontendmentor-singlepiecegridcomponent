@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  background-color: lightgrey;
+}
+
+h2 {
+  margin: 0;
+}
+
+.th {
+  color: hsl(179, 62%, 43%);
+}
+
+.tp {
+  color: hsl(204, 43%, 73%);
+}
+
+.outer-container {
+  margin: 150px auto;
+  width: 50%;
+}
+
+.inner-container {
+  width: 946px;
+  height: 561.1px;
+  position: relative;
+}
+
+.day30 {
+  color: hsl(71, 73%, 54%);
+}
+
+.top {
+  height: 50%;
+  position: absolute;
+  top: 0;
+  background-color: white;
+  border-radius: 10px 10px 0 0;
+  padding: 60px;
+}
+
+.bottom-left {
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  background-color: hsl(179, 62%, 43%);
+  border-bottom-left-radius: 10px;
+}
+
+.blh {
+  margin-top: 50px;
+  color: white;
+  margin-left: 60px;
+}
+
+.brh {
+  margin-top: 50px;
+  color: white;
+  margin-left: 60px;
+}
+
+.blp {
+  color: white;
+  margin-left: 60px;
+}
+
+.brp {
+  color: lightgrey;
+  width: 40%;
+  margin-left: 60px;
+}
+
+.bottom-right {
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  background-color: hsl(179, 62%, 47%);
+  border-bottom-right-radius: 10px;
+}
+
+.lb-dollar {
+  display: inline-block;
+  color: white;
+  margin: 0;
+  margin-left: 60px;
+}
+
+.lb-para {
+  display: inline-block;
+  margin: 0;
+  margin-left: 20px;
+  color: hsl(179, 62%, 57%);
+}
+
+.BUTTON_UMC {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  height: 27px;
+  line-height: 27px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  width: 243px;
+  font-size: 27px;
+  font-weight: 100;
+  padding: 16px;
+  background-color: hsl(71, 73%, 54%);
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 60px;
+  margin-bottom: 40px;
+}
